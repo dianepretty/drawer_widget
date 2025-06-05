@@ -1,5 +1,5 @@
 ---
-# Flutter Drawer Widget Example
+# Flutter Drawer Widget
 
 This Flutter application demonstrates the usage of the **Drawer widget**.
 
