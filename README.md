@@ -1,16 +1,23 @@
-# drawer_widget
+---
+# Flutter Drawer Widget Example
 
-A new Flutter project.
+This Flutter application demonstrates the usage of the **Drawer widget**.
 
-## Getting Started
+The Drawer widget is a material design panel that slides in from the edge of the screen. It's typically used to provide navigation options or quick links to different parts of your application. Think of it like a hidden sidebar that appears when you tap an icon (usually a "hamburger" icon) or swipe from the edge of the screen. It's an essential UI component for apps with multiple sections or features.
 
-This project is a starting point for a Flutter application.
+## How to Run the Application
 
-A few resources to get you started if this is your first Flutter project:
+Follow these simple steps to get the application up and running on your local machine:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/dianepretty/drawer_widget
+    ```
+2.  **Navigate into the project directory:**
+    ```bash
+    cd drawer_widget
+    ```
+3.  **Run the Flutter application:**
+    ```bash
+    flutter run
+    ```
